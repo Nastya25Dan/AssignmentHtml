@@ -1,0 +1,50 @@
+html{
+	font-family: Segoe UI;
+	}
+	#main-header{
+		background-color: 	black;
+		height: 75px;
+		width: 100%;
+
+	}
+#front-page{
+	background-color: 	#e8e8e8;
+	padding-bottom: 12px;
+		}
+
+h1,h3{
+	text-align: center;
+	}
+#under-title,#img-caption{
+ 	text-align: center;
+ 	color: grey;
+	}
+#img{
+	display: block;
+	width:100%;
+	align-content: center;
+	}
+
+figure{
+	background-color: white;
+	padding-left: 12px;
+	padding-right:12px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	}
+ul{
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+	}
+li{
+  margin: 16px 0;
+}
+p{
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+	}
+
